@@ -1,0 +1,5 @@
+# Open file in write mode (overwrites if exists)
+f = open("newfile.txt", "w")
+f.write("This file is created using Python!\n")
+f.write("Second line written.\n")
+f.close()
