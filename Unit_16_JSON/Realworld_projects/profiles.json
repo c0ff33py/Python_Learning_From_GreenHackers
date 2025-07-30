@@ -1,0 +1,23 @@
+[
+    {
+        "name": "John Wick",
+        "age": 30
+    },
+    {
+        "name": "Captain America",
+        "age": 33
+    },
+    {
+        "name": "Hulk",
+        "age": 45
+    },
+    {
+        "name": "Iron Man",
+        "age": 44
+    },
+    {
+        "name": "Spider Man",
+        "age": 23,
+        "role": "City Guard"
+    }
+]
