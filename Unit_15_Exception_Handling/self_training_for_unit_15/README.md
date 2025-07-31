@@ -1,0 +1,1 @@
+# code with chatgpt for exercise of real world projects
