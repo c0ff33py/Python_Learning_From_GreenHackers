@@ -1,0 +1,1 @@
+**Real world exercises for MySQL+ PYTHON**
