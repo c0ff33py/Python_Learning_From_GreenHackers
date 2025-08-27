@@ -17,7 +17,7 @@ print("✅ Database created!")
 db = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    passwd = "pythonmac",
+    passwd = "your password here",
     database = "employee_db"
 )
 cursor = db.cursor()
