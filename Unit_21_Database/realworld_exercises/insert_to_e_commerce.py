@@ -5,8 +5,8 @@ import mysql.connector
 db = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    passwd = "pythonmac",
-    database = "password here"
+    passwd = "password here",
+    database = "ecommerce_db"
 )
 
 cursor = db.cursor()
